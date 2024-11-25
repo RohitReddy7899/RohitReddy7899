@@ -10,25 +10,3 @@ I am actively learning and building solutions using Python, SQL, AWS, and variou
 
 📫 How to reach me: Vighnaig@gmial.com  
 🌐 LinkedIn: [[Your LinkedIn Profile Link] ](https://www.linkedin.com/in/mohan-vighnai-rohit-reddy-goluguri-a02260245/) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-👋 Hi, I'm Mohan!  
-I'm a graduate student at George Mason University studying Information Systems, specializing in Data Engineering and Cloud Computing. I'm passionate about building scalable data pipelines and leveraging cloud technologies to solve real-world problems.
-
-🔭 Currently working on AWS-powered data pipelines and machine learning models for data-driven insights.  
-🌱 Actively improving my skills in cloud architecture, big data processing, and automated data workflows.
-
-📄 Check out my resume and projects below.  
-📫 Feel free to contact me via email: Vighnaig@gmail.com
