@@ -8,5 +8,5 @@ I am actively learning and building solutions using Python, SQL, AWS, and variou
 💬 Ask me about data engineering, cloud computing, or machine learning!  
 📄 Feel free to check out my resume and project links below.
 
-📫 How to reach me: Vighnaig@gmial.com  
+📫 How to reach me: Vighnaig@gmail.com  
 🌐 LinkedIn: [[Your LinkedIn Profile Link] ](https://www.linkedin.com/in/mohan-vighnai-rohit-reddy-goluguri-a02260245/) 
